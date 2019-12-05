@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SISTEMA_FINANCIAMIENTO", "SISTEMA_FINANCIAMIENTO.vbproj", "{8E8F2DA4-9F57-4638-9AA1-D1FFD4D8BCCE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sistema Integral de Financiamiento", "..\Sistema Integral de Financiamiento\Sistema Integral de Financiamiento.vdproj", "{48E8C85B-5BCA-4534-934B-34EE34E6529B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8F2DA4-9F57-4638-9AA1-D1FFD4D8BCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8F2DA4-9F57-4638-9AA1-D1FFD4D8BCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8F2DA4-9F57-4638-9AA1-D1FFD4D8BCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8F2DA4-9F57-4638-9AA1-D1FFD4D8BCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E8C85B-5BCA-4534-934B-34EE34E6529B}.Debug|Any CPU.ActiveCfg = Debug
+		{48E8C85B-5BCA-4534-934B-34EE34E6529B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
